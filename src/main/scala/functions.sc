@@ -24,6 +24,7 @@ object test_scala1{
     //val pos = linearSearch(arra, 7)
     //if (pos == -1) "Not Found" else println(s"found at $pos")
 
+
     var x = readLine("Enter the first number")
     var y = readLine("Enter the second number")
     var z1 = x.toInt + y.toInt

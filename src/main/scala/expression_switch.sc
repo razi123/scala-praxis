@@ -1,6 +1,6 @@
 val x = 10
 val myList = Array(1, 2, 3, 4)
-var y = 20
+var y = 22
 
 val sum = myList.reduce(_+_)
 val sum_even = myList.filter(_%2==0).reduce(_+_)

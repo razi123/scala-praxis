@@ -5,6 +5,7 @@ object username {
     println("Razi")
   }
 
+
   def compute(num1: Int, num2: Int): Int = {
     if (num1 == num2) (num1 + num2) * 3 else num1 + num2
   }

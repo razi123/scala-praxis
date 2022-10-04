@@ -22,7 +22,7 @@ print("sum of %d and %d is %d".format(num1, num2, sum2))
 
 "%c for %s".format('A', "Apple")
 "%d".format(50)
-"%2d".format(50)
+"%2d".format(51)
 "%3d".format(50)
 
 // int = 5000 will give error
